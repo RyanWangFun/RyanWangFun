@@ -38,18 +38,12 @@ I build systems that make AI deeply personal — not generic assistants, but cog
 
 M.S. Management Science & Engineering, Tongji University. Former Operations Department Head. Gold Prize at COZE AI Workshop (ByteDance). 3,600+ followers on Xiaohongshu sharing AI + personal growth methodology.
 
-The combination of management science training and hands-on AI building gives me a perspective that's rare: I don't just write code — I design systems that work for real people in real life.
-
 ---
 
 ## Get in Touch
 
 - Email: gemiwang17@gmail.com
 - Location: Shanghai / Remote
-
----
-
-*I believe AI should adapt to the user, not the other way around.*
 
 ---
 
@@ -93,15 +87,9 @@ AI 系统实践者，专注于 Context Engineering、Agent 与多 Agent 架构�
 
 同济大学管理科学与工程硕士。曾任运营部负责人。COZE AI 工坊金奖得主（字节跳动主办）。小红书 3,600+ 粉丝，分享 AI + 个人成长方法论。
 
-管理科学的训练加上 AI 系统的实战构建，给了我一个少见的视角：我不只是写代码 —— 我设计在真实生活中为真实的人服务的系统。
-
 ---
 
 ## 联系方式
 
 - 邮箱：gemiwang17@gmail.com
 - 坐标：上海 / 远程
-
----
-
-*我相信 AI 应该适应用户，而不是让用户适应 AI。*
