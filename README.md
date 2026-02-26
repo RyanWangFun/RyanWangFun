@@ -49,7 +49,7 @@ M.S. Management Science & Engineering, Tongji University. Former Operations Depa
 
 <a name="中文说明"></a>
 
-# 你好，我是 Ryan Wang
+# 你好，我是 王玥冉
 
 AI 系统实践者，专注于 Context Engineering、Agent 与多 Agent 架构，以及 Skills / MCP Servers / Workflows 的全栈设计与交付。
 
